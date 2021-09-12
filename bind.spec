@@ -597,7 +597,7 @@ rm -rf ${RPM_BUILD_ROOT}
 %endif
 
 %changelog
-* Thu Jan 15 2014 Denis Frolov <d.frolov81@mail.ru> 40:9.9.4-P2
+* Wed Jan 15 2014 Denis Frolov <d.frolov81@mail.ru> 40:9.9.4-P2
 - update
 
 * Fri Sep 20 2013 Carl Byington <carl@five-ten-sg.com> 32:9.9.4-0.3
