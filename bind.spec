@@ -25,7 +25,7 @@ Url:      http://www.isc.org/products/BIND/
 Buildroot:%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 Group:    System Environment/Daemons
 #
-Source:   ftp://ftp.isc.org/isc/bind9/%{VERSION}/bind-%{VERSION}-P6.tar.gz
+Source:   https://downloads.isc.org/isc/bind9/%{VERSION}-P6/bind-%{VERSION}-P6.tar.gz
 Source1:  named.sysconfig
 Source2:  named.init
 Source3:  named.logrotate
